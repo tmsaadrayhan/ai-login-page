@@ -1,0 +1,31 @@
+.box {
+  border-radius: 40.187px;
+  background: #eceef7;
+  box-shadow: 10px 10px 20px #bebebe, -10px -10px 20px #ffffff;
+}
+.circle {
+  border-width: 1px;
+
+  border-image: linear-gradient(135deg, #715cff, #725cff00) 1;
+  border-radius: 150.483px;
+  width: 150px;
+  height: 150px;
+  flex-shrink: 0;
+  box-shadow: -14.884px -14.884px 29.768px 0px rgba(255, 255, 255, 0.8),
+    12.652px 14.14px 29.768px 0px rgba(150, 134, 255, 0.3);
+  background: linear-gradient(#eceef7, #eceef7) padding-box,
+    linear-gradient(135deg, #715cff, #725cff00) border-box;
+  border-radius: 50em;
+  border: 1px solid transparent;
+}
+.mr-ai {
+  color: #7560ff;
+  text-shadow: 2.233px 8.186px 5px rgba(150, 134, 255, 0.5);
+  -webkit-text-stroke-width: 1;
+  -webkit-text-stroke-color: #000;
+  font-family: Montserrat;
+  font-size: 53.583px;
+  font-style: italic;
+  font-weight: 900;
+  line-height: normal;
+}
